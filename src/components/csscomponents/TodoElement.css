@@ -1,0 +1,19 @@
+.TodoElement{
+    display: flex;
+    max-width: 100%;
+    justify-content: space-between;
+    margin: 0;
+}
+.div-titlu{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.div-butoane{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button{
+    margin-left: 2px;
+}
